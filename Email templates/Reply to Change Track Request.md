@@ -6,5 +6,5 @@ We would like to give you the best experience possible thus we cannot approve yo
 
 If you wish to continue with your Beginner track, then we will gladly assist you. After this course, you are free to re-apply and try out for either the Intermediate or the Advanced track.
 
-All the best,
+All the best,       
 CodePath.org Team
