@@ -25,9 +25,9 @@ After initial submission, you may choose to iterate on the app by adding several
 
     Be sure to include in the README an updated GIF walkthrough using LiceCap of the app demoing how it works with required user stories completed.
 
-For a more detailed instructions and descriptions for your Pre-work, you can refer to [Android Pre-work: Todo App](https://courses.codepath.org/snippets/android_university/prework). 
+For more detailed instructions and descriptions for your Pre-work, you can refer to [Android Pre-work: Todo App](https://courses.codepath.org/snippets/android_university/prework). 
 
 The schedule for Fall 2021 Admissions for Android for CS Majors course, the ***virtual Zoom meetings*** will be conducted every **Tuesday 4-6pm** (Pacific Time) and every **Saturday 10am-12pm** (Pacific Time) for **12 weeks** starting from **September 14, 2021**. 
 
-All the best,
+All the best,        
 CodePath.org Team
