@@ -9,4 +9,5 @@ In the meantime, there are a lot of resources out there for people interested in
 We hope to be able to bring programs to your area soon and expand our audience for future programs. We will gladly accommodate you by then. Thank you for your understanding.
 
 All the best,
+
 CodePath.org Team
