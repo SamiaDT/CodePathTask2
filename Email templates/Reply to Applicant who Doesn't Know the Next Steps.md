@@ -2,7 +2,7 @@ Hi Jake,
 
 Thank you for your interest in our Android University course!
 
-In response with your query about the next steps for your pre-work and the class schedule, kindly read on the details below. 
+In response with your queries about the next steps for your pre-work and the class schedule, kindly read on the details below. 
 
 The pre-work incorporates a few steps:
 1. Setup your Android environment.     
