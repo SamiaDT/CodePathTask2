@@ -1,6 +1,6 @@
 Hey there,
 
-Thank you for applying to our courses! We do appreciate your interest and efforts, unfortunately for now, our courses are specifically targeted at students enrolled in our partner universities within the United States. We cannot accept your application at present but know that we do have ambitions to widen our horizons. We already run programs in other countries such as Haiti and we are planning to expand to more areas as well.
+Thank you for applying to one of our courses! We do appreciate your interest and efforts but unfortunately for now, our courses are specifically targeted at students enrolled in our partner universities within the United States. We cannot accept your application at present, but know that we do have ambitions to widen our horizons. We already have programs in other countries such as Haiti and we are planning to expand to more areas as well.
 
 If you sign up for our [mailing list](https://https://share.hsforms.com/1eg_EOoQpR4ObU4s8fUES2Q36gst), we will notify you when classes become available in your area.
 
