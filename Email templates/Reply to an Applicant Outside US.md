@@ -4,7 +4,7 @@ Thank you for applying to one of our courses! We do appreciate your interest and
 
 If you sign up for our [mailing list](https://share.hsforms.com/1eg_EOoQpR4ObU4s8fUES2Q36gst), we will notify you when classes become available in your area.
 
-In the meantime, there are a lot of resources out there for people interested in learning Android, and we’ve done some work to make them more accessible. We have many [online resources for learning Android](https://support.codepath.com/knowledge_base/topics/how-can-i-get-started-learning-android-development-online) including an extensive [list of Android resources online](https://guides.codepath.com/android/Beginning-Android-Resources#beginning-android-resources).
+In the meantime, there are a lot of resources out there for people interested in learning Android, and we’ve done some work to make them more accessible. We have many online resources for learning Android including an extensive [list of Android resources online](https://guides.codepath.com/android/Beginning-Android-Resources#beginning-android-resources).
 
 We hope to be able to bring programs to your area soon and expand our audience for future programs. We will gladly accommodate you by then. Thank you for your understanding.
 
